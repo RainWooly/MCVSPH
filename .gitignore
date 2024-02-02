@@ -1,14 +1,1 @@
 __pycache__
-test.py
-*.txt
-*.png
-*.mat
-img_montecarlo_transpose
-evaluation_data
-evaluation_data_txt
-*.pptx
-*.ply
-longway_turbdfsph_output
-longway_turbdfsph_output_img
-propeller_turbdfsph_output
-propeller_turbdfsph_output_img
