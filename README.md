@@ -33,6 +33,18 @@ The following solvers have been implemented:
 2. Bender, J., Koschier, D., Kugelstadt, T. and Weiler, M., 2018. Turbulent micropolar SPH fluids with foam. IEEE transactions on visualization and computer graphics, 25(6), pp.2284-2295.
 3. Liu, S., Wang, X., Ban, X., Xu, Y., Zhou, J., Kosinka, J. and Telea, A.C., 2021, February. Turbulent details simulation for SPH fluids via vorticity refinement. In Computer Graphics Forum (Vol. 40, No. 1, pp. 54-67).
 
-
+## BibTex
+```
+@article{ye2024monte,
+author = {Ye, Xingyu and Wang, Xiaokun and Xu, Yanrui and Kosinka, Jiří and Telea, Alexandru C. and You, Lihua and Zhang, Jian Jun and Chang, Jian},
+title = {Monte Carlo Vortical Smoothed Particle Hydrodynamics for Simulating Turbulent Flows},
+journal = {Computer Graphics Forum},
+volume = {43},
+number = {2},
+pages = {e15024},
+doi = {https://doi.org/10.1111/cgf.15024},
+year = {2024}
+}
+```
 ## Acknowledgement
 Implementation of this paper is largely inspired by [SPH_Taichi](https://github.com/erizmr/SPH_Taichi).
